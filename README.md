@@ -1,1 +1,1 @@
-# bethelcore.gethub.io
+# bethelcore.io
